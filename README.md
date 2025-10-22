@@ -52,8 +52,9 @@ https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 
 1. Clone the repositary:
 ```bash
-git clone https://github.com/Aishwarya-mandal5/Uber-Ride-Analysis-sql-python-powerbi-msexcel.git
+git clone https://github.com/Aishwarya-mandal5/Uber-Ride-Analysis-sql-python-powerbi-msexcel
 ```
+2. 
 
 ### Recommendations
 
