@@ -48,6 +48,13 @@ https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 - There is a mixture of business and personal trips, with personal travel making up the vast majority, providing direction on where to focus service differentiation.
 <img width="796" height="452" alt="Uber Ride Analysis" src="https://github.com/user-attachments/assets/ff9b2c0e-0294-4667-b3d5-015f13e1037b" />
 
+### How to Run the Project
+
+1. Clone the repositary:
+```bash
+git clone https://github.com/Aishwarya-mandal5/Uber-Ride-Analysis-sql-python-powerbi-msexcel.git
+```
+
 ### Recommendations
 
 - Invest in better customer data gathering to reduce "unknown" purpose trips and enhance analytics.
