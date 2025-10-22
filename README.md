@@ -46,6 +46,7 @@ https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 - Analysis of daily and monthly trends shows predictable patterns; however, certain months and midweek periods experience dips, signaling possible periods for targeted promotions.
 - The bulk of trips happen during afternoon hours, aligning with customer meal times and meetings, and lower travel in late nights and early mornings highlights specific gaps in coverage and service utilization.
 - There is a mixture of business and personal trips, with personal travel making up the vast majority, providing direction on where to focus service differentiation.
+<img width="796" height="452" alt="Uber Ride Analysis" src="https://github.com/user-attachments/assets/ff9b2c0e-0294-4667-b3d5-015f13e1037b" />
 
 ### Recommendations
 
@@ -55,3 +56,8 @@ https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 - Launch targeted promotions during off-peak months and weekdays to increase trip volumes.
 - Analyze feedback from low-demand periods to discover new opportunities and improve user experiences.
 
+### Author
+
+Aishwarya Mandal  
+[Email](aishwaryamandal94@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/aishwarya-mandal-2a145915b/)
