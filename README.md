@@ -52,9 +52,21 @@ https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 
 1. Clone the repositary:
 ```bash
-git clone https://github.com/Aishwarya-mandal5/Uber-Ride-Analysis-sql-python-powerbi-msexcel
+git clone https://github.com/Aishwarya-mandal5/Uber-Ride-Analysis-sql-python-powerbi-msexcel.git
 ```
-2. 
+2. Load the csv:
+```bash
+csv Data/UberDataset_Clean.csv
+```
+3. SQL query:
+```bash
+sql SQL code/Uber_SQL_Query.pdf
+```
+4. Open and run notebook:
+   - `Uber_Analysis_Python_JupyterNotebook.ipynb`
+5. Open and run dashboard:
+   - `Dashboard/Uber_Analysis_PowerBi.pbix`
+   - `Dashboard/Uber_Analysis_Excel.xlsx`
 
 ### Recommendations
 
